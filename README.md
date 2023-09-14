@@ -1,5 +1,7 @@
 ### A simple TCP server written in C.
 
+Simple netcat utility.
+
 *Server - Side*
 ```bash
 gcc tcp_server.c -o server
