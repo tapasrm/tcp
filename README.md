@@ -1,6 +1,6 @@
 ### A simple TCP server written in C.
 
-Simple netcat utility.
+Implements netcat utility.
 
 *Server - Side*
 ```bash
